@@ -39,7 +39,7 @@ const Hero = () => {
           transition={{ duration: 1, ease: "easeOut" }}
         >
           Transform Your Quranic Journey with{" "}
-          <span className="text-yellow-400">Al-Hikmah!</span>
+          <span className="text-yellow-400">Al-Hikmat!</span>
         </motion.h1>
 
         <motion.p
