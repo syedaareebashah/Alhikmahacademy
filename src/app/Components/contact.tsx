@@ -80,7 +80,7 @@ export default function ContactForm() {
       <Card className="border-[#0d4b26]/20 shadow-lg">
         <CardHeader className="bg-[#0d4b26]/5 rounded-t-lg">
           <CardTitle className="text-2xl md:text-3xl font-bold text-[#0d4b26] text-center">
-            Contact AL-Hikmah Quran Academy
+            Contact AL-Hikmat Quran Academy
           </CardTitle>
           <CardDescription className="text-center text-[#0d4b26]/70">
             We'd love to hear from you. Please fill out the form below.
@@ -92,7 +92,7 @@ export default function ContactForm() {
             <Alert className="mb-6 bg-green-50 border-green-200 text-green-800">
               <CheckCircle className="h-4 w-4 mr-2" />
               <AlertDescription>
-                Thank you for contacting AL-Hikmah Quran Academy. We will get back to you soon.
+                Thank you for contacting AL-Hikmat Quran Academy. We will get back to you soon.
               </AlertDescription>
             </Alert>
           )}
@@ -217,7 +217,7 @@ export default function ContactForm() {
 
         <CardFooter className="flex flex-col text-center text-sm text-muted-foreground pt-0">
           <p>
-            You can also reach us at <span className="font-medium">info@alhikmahacademy.com</span>
+            You can also reach us at <span className="font-medium">info@alhikmatacademy.com</span>
           </p>
         </CardFooter>
       </Card>
