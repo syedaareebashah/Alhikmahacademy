@@ -14,7 +14,7 @@ const AboutUs = () => {
         transition={{ duration: 0.8 }}
       >
         <h2 className="text-3xl sm:text-4xl font-bold text-gray-800">
-          About <span className="text-yellow-500">Al-Hikmah Academy</span>
+          About <span className="text-yellow-500">Al-Hikmat Academy</span>
         </h2>
         <p className="text-gray-600 mt-4 text-base sm:text-lg">
           Empowering students with deep Quranic knowledge through expert guidance and structured learning.
@@ -32,7 +32,7 @@ const AboutUs = () => {
         >
           <h3 className="text-2xl sm:text-3xl font-semibold text-gray-800">Who We Are</h3>
           <p className="text-gray-600 text-base sm:text-lg">
-            <span className="text-yellow-500 font-semibold">Al-Hikmah Academy</span> is an online Islamic school offering 
+            <span className="text-yellow-500 font-semibold">Al-Hikmat Academy</span> is an online Islamic school offering 
             Quran education to students worldwide. With highly qualified teachers, we ensure a deep understanding of:
           </p>
           <ul className="list-disc pl-5 sm:pl-6 text-gray-600 text-base sm:text-lg hover:text-cyan-800 space-y-2">
