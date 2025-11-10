@@ -149,7 +149,7 @@ export default function OnlineEnrollmentForm() {
           <Alert className="mb-6 bg-red-50 border-red-200 text-red-800">
             <AlertDescription>
               There was an error submitting your enrollment. Please try again or contact us directly at
-              admissions@alhikmahacademy.com or WhatsApp +923312968199.
+              admissions@alhikmatacademy.com or WhatsApp +923312968199.
             </AlertDescription>
           </Alert>
         )}
@@ -638,7 +638,7 @@ export default function OnlineEnrollmentForm() {
       </CardContent>
 
       <CardFooter className="flex flex-col text-center text-sm text-muted-foreground">
-        <p>Need help? Contact us at admissions@alhikmahacademy.com</p>
+        <p>Need help? Contact us at admissions@alhikmatacademy.com</p>
       </CardFooter>
     </Card>
   )
