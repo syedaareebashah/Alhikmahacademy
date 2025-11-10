@@ -12,12 +12,12 @@ export default function Footer() {
         <div className="flex flex-col items-center md:flex-row md:items-center md:justify-start mb-8">
           <Image
             src={bismillah}
-            alt="Alhikmah Logo"
+            alt="Alhikmat Logo"
             className="h-14 w-auto"
           />
           <h2 className="mt-3 md:mt-0 md:ml-3 text-2xl font-bold text-yellow-300 flex items-center gap-2 hover:text-cyan-700">
             <BookOpen className="w-7 h-7 text-yellow-400 hover:text-cyan-800" />
-            Alhikmah Academy
+            Alhikmat Quran Academy
           </h2>
         </div>
 
@@ -46,7 +46,7 @@ export default function Footer() {
           {/* Contact & Socials */}
           <div>
             <h3 className="text-xl font-semibold text-yellow-300 mb-3">Contact</h3>
-            <p>Email: <a href="mailto:info@alhikmah.com" className="hover:text-yellow-400">alhikmahacademyyyy@gmail.com</a></p>
+            <p>Email: <a href="mailto:info@alhikmah.com" className="hover:text-yellow-400">alhikmatacademyyyy@gmail.com</a></p>
             <p>Phone: <a href="tel:+923001234567" className="hover:text-yellow-400">+92 332 3259557</a></p>
             <div className="flex justify-center md:justify-start space-x-4 mt-4">
               <a href="#" className="hover:text-yellow-400"><Facebook /></a>
@@ -57,7 +57,7 @@ export default function Footer() {
 
         {/* Bottom Bar */}
         <div className="border-t border-yellow-500 mt-8 pt-4 text-center text-sm text-yellow-100">
-          © {new Date().getFullYear()} Alhikmah Academy. All rights reserved.
+          © {new Date().getFullYear()} Alhikmat Academy. All rights reserved.
         </div>
       </div>
     </footer>
