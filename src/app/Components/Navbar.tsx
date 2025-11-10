@@ -28,7 +28,7 @@ const Navbar = () => {
             {/* Logo */}
             <div className="flex items-center">
               <Link href="/">
-                <Image src={logo} alt="AL-HIKMAH" width={80} height={50} />
+                <Image src={logo} alt="AL-HIKMAT" width={80} height={50} />
               </Link>
             </div>
 
