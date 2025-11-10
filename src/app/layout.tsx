@@ -16,7 +16,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Al-Hikmah Quran Academy",
+  title: "Al-Hikmat Quran Academy",
   description: "Learn Quran with Tajweed, Hifz & Tafsir – Anytime, Anywhere!",
 };
 
