@@ -180,7 +180,7 @@ export default function SubmitReviewForm({
           id="review"
           value={reviewText}
           onChange={(e) => setReviewText(e.target.value)}
-          placeholder="Share your experience with Al Hikmah Quran Academy..."
+          placeholder="Share your experience with Al Hikmat Quran Academy..."
           rows={5}
         />
       </motion.div>
