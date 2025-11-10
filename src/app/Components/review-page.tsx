@@ -104,7 +104,7 @@ export default function ReviewPage() {
             animate={{ opacity: 1, y: 0 }}
             transition={{ delay: 0.3 }}
           >
-            Read what our students and parents say about their experience with Al Hikmah Quran Academy.
+            Read what our students and parents say about their experience with Al Hikmat Quran Academy.
           </motion.p>
         </div>
       </header>
